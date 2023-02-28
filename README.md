@@ -4,7 +4,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaribrokhimov&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaribrokhimov" /> </p>
+<p color = "red"align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaribrokhimov&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaribrokhimov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaribrokhimov" alt="sanjaribrokhimov" /></a> </p>
 
