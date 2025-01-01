@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sanjar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">I am data web php and golang  programmer</h3>
+<h3 align="center">I am web php and golang  programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
